@@ -1,6 +1,6 @@
 # Tiago Adorno
 
-Assistant Professor of Physics at [Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/), China  
+Assistant Professor of Physics at [Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en), China  
 
 ---
 
