@@ -22,8 +22,8 @@ I’m fascinated by the power of asymptotic analysis in mathematical physics, an
 ## Publications  
 You can find my publications on:  
 - [INSPIRE-HEP](https://inspirehep.net/authors/1065407?ui-citation-summary=true)  
-- [Google Scholar](https://scholar.google.com/)  
-- [arXiv](https://arxiv.org/)  
+- [Google Scholar](https://scholar.google.com/citations?user=cjKRuU8AAAAJ&hl=en)  
+- [arXiv](https://arxiv.org/search/?searchtype=author&query=Adorno%2C+T+C)  
 
 ---
 
