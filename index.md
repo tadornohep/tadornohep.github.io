@@ -21,9 +21,9 @@ I’m fascinated by the elegance of asymptotic analysis in mathematical physics,
 
 ## 📚 Publications  
 You can find my publications on:  
-- [INSPIRE-HEP](https://inspirehep.net/)  
-- [Google Scholar](https://scholar.google.com/)  
-- [arXiv](https://arxiv.org/)  
+- [INSPIRE-HEP]([https://inspirehep.net/](https://inspirehep.net/author/profile/T.C.Adorno.1?ln=pt))  
+- [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=cjKRuU8AAAAJ&hl=en))  
+- [arXiv]([https://arxiv.org/](https://arxiv.org/search/?searchtype=author&query=Adorno%2C+T+C))  
 
 ---
 
@@ -33,5 +33,5 @@ I love teaching physics and working with my students in China.
 ---
 
 ## 📬 Contact  
-- Email: your-email@example.com  
-- GitHub: [github.com/your-username](https://github.com/your-username)  
+- Email: Tiago.Adorno@xjtlu.edu.cn  
+- GitHub: [github.com/tadornohep](https://github.com/tadornohep)  
