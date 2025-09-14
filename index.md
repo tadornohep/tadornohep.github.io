@@ -21,9 +21,9 @@ I’m fascinated by the elegance of asymptotic analysis in mathematical physics,
 
 ## 📚 Publications  
 You can find my publications on:  
-- [INSPIRE-HEP]([https://inspirehep.net/](https://inspirehep.net/author/profile/T.C.Adorno.1?ln=pt))  
-- [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=cjKRuU8AAAAJ&hl=en))  
-- [arXiv]([https://arxiv.org/](https://arxiv.org/search/?searchtype=author&query=Adorno%2C+T+C))  
+- [INSPIRE-HEP]([https://inspirehep.net/author/profile/T.C.Adorno.1?ln=pt])  
+- [Google Scholar]([https://scholar.google.com/citations?user=cjKRuU8AAAAJ&hl=en])  
+- [arXiv]([https://arxiv.org/search/?searchtype=author&query=Adorno%2C+T+C])  
 
 ---
 
